@@ -1,0 +1,1 @@
+export const foodRed = "#f48f36";
